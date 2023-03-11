@@ -22,7 +22,7 @@ class _NextPageState extends State<NextPage> {
       "title": "Surya Appartment",
       "location": "Delhi",
       "image":
-          "https://cdn.pixabay.com/photo/2016/06/24/10/47/house-1477041__340.jpg",
+          "https://user-images.githubusercontent.com/88928888/224468969-be4c0995-2e03-44b8-bdae-a7168afd972c.png",
     },
     {
       "title": "Fonixx",
