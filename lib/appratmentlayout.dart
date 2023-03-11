@@ -28,25 +28,25 @@ class _NextPageState extends State<NextPage> {
       "title": "Fonixx",
       "location": "Noida",
       "image":
-          "https://assets.architecturaldigest.in/photos/60083e76274aca243711c3a4/16:9/w_2560%2Cc_limit/ghaziabad-uttar-pradesh-homes-photos-1366x768.jpg",
+          "https://user-images.githubusercontent.com/88928888/224469556-263df2de-e6e9-4943-bf1f-ce7b90e67920.png",
     },
     {
       "title": "Mishra Bhawan",
       "location": "Patna",
       "image":
-          "https://homezonline.in/wp-content/uploads/2022/07/Simplex-single-floor-home.jpg",
+          "https://user-images.githubusercontent.com/88928888/224469450-8332675a-3a54-4f0e-8f10-3ad93ef816bf.png",
     },
     {
       "title": "Dwarika flat",
       "location": "Roorkee",
       "image":
-          "https://www.baufritz.com/01_Haeuser/Kundenh%C3%A4user/2019/Richter/Bilder/247/image-thumb__247__hero/-8585855483413193058.jpg",
+          "https://user-images.githubusercontent.com/88928888/224469313-059ee431-2464-432e-a46f-c4980cb953e8.png",
     },
     {
       "title": "Ramkung Appartment",
       "location": "Bihar",
       "image":
-          "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/wp-content/uploads/2021/08/download-7.jpg",
+          "https://user-images.githubusercontent.com/88928888/224469354-7a15d32b-7254-49f0-b907-d0c8b2d404ac.png",
     },
   ];
   @override
