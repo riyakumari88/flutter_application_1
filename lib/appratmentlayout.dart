@@ -19,35 +19,11 @@ class NextPage extends StatefulWidget {
 class _NextPageState extends State<NextPage> {
   List data = [
     {
-      "title": "Surya Appartment",
-      "location": "Delhi",
-      "image":
-          "https://user-images.githubusercontent.com/88928888/224468969-be4c0995-2e03-44b8-bdae-a7168afd972c.png",
-    },
-    {
       "title": "Fonixx",
       "location": "Noida",
       "image":
           "https://user-images.githubusercontent.com/88928888/224469556-263df2de-e6e9-4943-bf1f-ce7b90e67920.png",
-    },
-    {
-      "title": "Mishra Bhawan",
-      "location": "Patna",
-      "image":
-          "https://user-images.githubusercontent.com/88928888/224469450-8332675a-3a54-4f0e-8f10-3ad93ef816bf.png",
-    },
-    {
-      "title": "Dwarika flat",
-      "location": "Roorkee",
-      "image":
-          "https://user-images.githubusercontent.com/88928888/224469313-059ee431-2464-432e-a46f-c4980cb953e8.png",
-    },
-    {
-      "title": "Ramkung Appartment",
-      "location": "Bihar",
-      "image":
-          "https://user-images.githubusercontent.com/88928888/224469354-7a15d32b-7254-49f0-b907-d0c8b2d404ac.png",
-    },
+    }
   ];
   @override
   Widget build(BuildContext context) {
